@@ -2,9 +2,6 @@
 Developed an algorithm to estimate audience overlap across multiple demographic characteristics. The project involved data preprocessing, merging datasets, calculating lower bounds, and refining estimates using a joint distribution approach.
 Project Title: Audience Overlap Estimation Algorithm
 
-Project Description:
-Developed an algorithm to estimate audience overlap across multiple demographic characteristics. The project involved data preprocessing, merging datasets, calculating lower bounds, and refining estimates using a joint distribution approach.
-
 Responsibilities and Achievements:
 - Loaded and merged demographic and visitor data using Python and pandas.
 - Implemented a lower bound calculation function for conservative audience size estimates.
